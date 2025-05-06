@@ -1,9 +1,0 @@
-﻿ID,Work Item Type,Title,Assigned To,State,Tags
-"1","Epic","E01-user profile",,"New",
-"2","Feature","user registration and login",,"New",
-"3","User Story","as a user i must need to have a account","230701308 <230701308@rajalakshmi.edu.in>","New",
-"4","User Story","as a user i must need to create a account",,"New",
-"5","User Story","as user i must need to log in again",,"New",
-"6","Epic","salary management",,"New",
-"7","Feature","user's type of salary ",,"New",
-"8","User Story","as a user iam getting a monthly salary i need to a option to maintain it",,"New",
